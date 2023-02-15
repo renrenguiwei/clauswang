@@ -1,6 +1,6 @@
 {
   "name": "clauswang",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "一个用名字命令的前端兴趣库",
   "main": "index.js",
   "scripts": {
