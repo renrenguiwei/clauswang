@@ -1,5 +1,5 @@
-const manualInputFlag = require('./manualInputFlag')
+import manualInputFlag from "./manualInputFlag.js";
 
-module.exports = {
+export {
     manualInputFlag
 }

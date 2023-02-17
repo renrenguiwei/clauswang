@@ -1,7 +1,8 @@
 {
   "name": "clauswang",
-  "version": "1.0.4",
-  "description": "一个用名字命令的前端兴趣库",
+  "type" : "module",
+  "version": "1.0.6",
+  "description": "A library only for interest.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

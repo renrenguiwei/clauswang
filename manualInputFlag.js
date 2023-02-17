@@ -42,4 +42,4 @@ function manualInputFlag (flag) {
     return result
 }
 
-module.exports = manualInputFlag
+export default manualInputFlag
