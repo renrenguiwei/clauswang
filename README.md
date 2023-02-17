@@ -1,2 +1,2 @@
-# clauswang
-前端个人兴趣包
+# www.claus.wang
+A library only for interest
